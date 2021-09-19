@@ -6,5 +6,6 @@
 
 * [Intro](react/intro.md)
 * [First Component](react/first-component.md)
+* [Rules](react/rules.md)
 * [Sources](react/sources.md)
 
