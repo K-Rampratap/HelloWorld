@@ -18,7 +18,5 @@ solution -
 
 3. Close every element
 
-4. 
-
 
 
