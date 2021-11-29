@@ -7,16 +7,14 @@
 
 1. Return single element
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](<../.gitbook/assets/image (1).png>)
 
-solution - 
+solution -&#x20;
 
-1.  Wrap everything in one div\(not a good practice\)
+1. &#x20;Wrap everything in one div(not a good practice)
 2. Use React.Fragment
 
-2. ClassName instead of Class
+2\. ClassName instead of Class
 
-3. Close every element
-
-
+3\. Close every element
 

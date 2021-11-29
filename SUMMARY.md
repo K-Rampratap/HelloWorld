@@ -15,4 +15,5 @@
 ## Angular
 
 * [Intro](angular/intro.md)
-* [Setup](angular/setup.md)
+* [Typescript Basics](angular/typescript-basics.md)
+* [Angular Intro](angular/angular-intro.md)
