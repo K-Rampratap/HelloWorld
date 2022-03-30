@@ -7,6 +7,7 @@
 * [Intro](react/intro.md)
   * [App.js](react/intro/app.js.md)
   * [index.html](react/intro/index.html.md)
+  * [Annexure](react/intro/annexure.md)
 * [First Component](react/first-component.md)
 * [Rules](react/rules.md)
 * [Nested components](react/nested-components.md)
