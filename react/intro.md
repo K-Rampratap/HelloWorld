@@ -6,5 +6,4 @@ It is a front-end javascript library. It can be used to create websites and mobi
 
 ## Create an application
 
-1. Create 
-
+1. Create&#x20;

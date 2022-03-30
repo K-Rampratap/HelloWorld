@@ -4,7 +4,7 @@ description: Architecture and basic commands
 
 # Angular Intro
 
-![Architecture](<../.gitbook/assets/image (7).png>)
+![Architecture](<../.gitbook/assets/image (7) (1).png>)
 
 ### [Architecture](https://v2.angular.io/docs/ts/latest/guide/architecture.html)
 
