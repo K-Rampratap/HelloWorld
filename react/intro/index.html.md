@@ -4,7 +4,7 @@
 
 {% embed url="https://getbootstrap.com/docs/5.1/getting-started/introduction#starter-template" %}
 
-You cannot use the bootstrap directly from the bootstrap website into App.js
+You cannot use the bootstrap directly from the bootstrap website
 
 * class -> className
 * href = "#" -> href = "/"  etc
