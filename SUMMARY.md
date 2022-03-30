@@ -4,7 +4,8 @@
 
 ## React
 
-* [Intro](react/intro.md)
+* [Intro](react/intro/README.md)
+  * [App.js](react/intro/app.js.md)
 * [First Component](react/first-component.md)
 * [Rules](react/rules.md)
 * [Nested components](react/nested-components.md)
