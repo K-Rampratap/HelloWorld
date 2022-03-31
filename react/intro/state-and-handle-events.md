@@ -9,22 +9,15 @@ description: '{useState}'
 * `const [count, setCount] = useState(0)` array de-structuring is being used. U can directly set count, you should use `setCount` only.
 
 ```javascript
-import React, { useState } from 'react';
-import PropTypes from 'prop-types';
-
-
-
-const defaultProps = {};
-
 const TextForm = (props) => {
     const [text, setText] = useState("This is First state");
-
+    
     const handleUpClick = () => {
         console.log("Uppercase was clicked" + text)
         let newText = text.toUpperCase();
         setText(newText)
     }
-
+// On change as in when anything is typed in the textarea
     const handleOnChange = (event) => {
         console.log("OnChange");
         setText(event.target.value); //we will be able to see what we typed
@@ -40,14 +33,6 @@ const TextForm = (props) => {
         </div>
     );
 }
-
-TextForm.propTypes = {
-    heading: PropTypes.string,
-    title: PropTypes.string
-};
-TextForm.defaultProps = defaultProps;
-
-export default TextForm
 ```
 
 #### Footnotes  :clap:
