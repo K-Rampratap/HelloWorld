@@ -1,4 +1,10 @@
+---
+description: prop types to be defined in the component
+---
+
 # prop types
+
+
 
 ```javascript
 //define datatyes to be passed
