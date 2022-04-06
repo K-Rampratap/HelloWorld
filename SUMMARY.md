@@ -12,6 +12,7 @@
   * [State and Handle events](react/intro/state-and-handle-events.md)
   * [Annexure](react/intro/annexure.md)
   * [Shortcuts for ES7 extension](react/intro/shortcuts-for-es7-extension.md)
+* [Class component](react/class-component.md)
 * [First Component](react/first-component.md)
 * [Rules](react/rules.md)
 * [Nested components](react/nested-components.md)
