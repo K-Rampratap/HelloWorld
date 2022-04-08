@@ -13,6 +13,7 @@
   * [Annexure](react/intro/annexure.md)
   * [Shortcuts for ES7 extension](react/intro/shortcuts-for-es7-extension.md)
 * [Class component](react/class-component.md)
+* [iNotebook](react/inotebook.md)
 * [First Component](react/first-component.md)
 * [Rules](react/rules.md)
 * [Nested components](react/nested-components.md)

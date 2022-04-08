@@ -22,7 +22,7 @@ The output -> Hello \<b> React \</b>&#x20;
 
 * Babel compiles JSX down to `React.createElement()` calls.
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (7) (1).png>)
 
 #### Footnotes :tada:
 
