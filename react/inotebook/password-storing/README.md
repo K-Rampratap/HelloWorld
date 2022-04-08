@@ -8,4 +8,4 @@ Hash storing , Salt and Pepper addition
 
 {% embed url="https://www.npmjs.com/package/bcrypt" %}
 
-![](<../../../.gitbook/assets/image (10).png>)
+![](<../../../.gitbook/assets/image (10) (1).png>)
