@@ -16,6 +16,7 @@
 * [iNotebook](react/inotebook/README.md)
   * [Creating models using mongoose](react/inotebook/creating-models-using-mongoose.md)
   * [Adding Validators](react/inotebook/adding-validators.md)
+  * [Password storing](react/inotebook/password-storing.md)
 * [First Component](react/first-component.md)
 * [Rules](react/rules.md)
 * [Nested components](react/nested-components.md)
