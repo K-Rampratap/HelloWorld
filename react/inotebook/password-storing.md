@@ -5,3 +5,5 @@
 Hash storing , Salt and Pepper addition
 
 `npm i bcrtpy.js`
+
+{% embed url="https://www.npmjs.com/package/bcrypt" %}
