@@ -8,6 +8,6 @@
 
 ![](<../../../.gitbook/assets/image (11).png>)
 
-![](<../../../.gitbook/assets/image (10).png>)
+![](<../../../.gitbook/assets/image (10) (1).png>)
 
 ![return Auth token](<../../../.gitbook/assets/image (7).png>)
