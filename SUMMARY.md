@@ -22,6 +22,7 @@
   * [UI](react/inotebook/ui/README.md)
     * [Concurrently](react/inotebook/ui/concurrently.md)
     * [react-router](react/inotebook/ui/react-router.md)
+  * [Context API](react/inotebook/context-api.md)
 * [First Component](react/first-component.md)
 * [Rules](react/rules.md)
 * [Nested components](react/nested-components.md)
